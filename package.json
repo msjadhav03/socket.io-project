@@ -1,0 +1,28 @@
+{
+  "name": "socket.io-project",
+  "version": "1.0.0",
+  "description": "Socket.io implementation",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msjadhav03/socket.io-project.git"
+  },
+  "keywords": [
+    "socket.io",
+    "node",
+    "express"
+  ],
+  "author": "Manisha S. Jadhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msjadhav03/socket.io-project/issues"
+  },
+  "homepage": "https://github.com/msjadhav03/socket.io-project#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4"
+  }
+}
